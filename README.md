@@ -1,7 +1,7 @@
 # projectbirdcall
 It's the projected project projection; licensing conditions under review.
 
-##FAIR WARNING; JUST FOR THIS--IT AIN'T WORTH BOTHERING OVER IT YET
+## FAIR WARNING; JUST FOR THIS--IT AIN'T WORTH BOTHERING OVER IT YET
 
 nothing if not praddling and pedantic;
 .xcf is a file format develop-ed(menting) by the folks at GIMP  
